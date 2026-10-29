@@ -23,17 +23,17 @@ body{
 .card{
     /* border: 2px solid black; */
     border-radius: 20px;
-    background-color: beige;
+    background-color: rgb(255, 243, 240);
     cursor: pointer;
     overflow: hidden;
-    box-shadow: 2px 2px 5px red;
+    box-shadow: 2px 2px 5px rgb(123, 166, 204);
     transition: transform 0.2s linear;
 
 }
 
 .card:hover{
     transform: scale(1.015) ;
-    box-shadow: 2px 2px 5px lightskyblue;
+    box-shadow: 2px 2px 5px red;
 
 }
 
